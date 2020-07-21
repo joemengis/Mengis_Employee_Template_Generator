@@ -4,8 +4,6 @@
 
 // Url:  https://joemengis.github.io/Mengis_Employee_Template_Generator/
 
-// Preview:
-
-
+// Preview: Video located in the assets folder
 
 // Technology used: html, javascript, jquery, node
